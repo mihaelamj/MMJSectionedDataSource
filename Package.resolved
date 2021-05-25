@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MMJUtils",
+        "repositoryURL": "https://github.com/mihaelamj/MMJUtils",
+        "state": {
+          "branch": null,
+          "revision": "891c4fb5936359b67cf07a7d840eb8a17bb453b6",
+          "version": "0.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
