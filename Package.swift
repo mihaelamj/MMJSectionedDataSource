@@ -25,11 +25,3 @@ let package = Package(
 
 
 
-
-//MMJSectionedDataSource
-//dependency 'CollectionUtil' in target 'MMJSectionedDataSourceTests' requires explicit declaration;
-//reference the package in the target dependency with '
-//.product(name: "CollectionUtil", package: "MMJUtils")
-
-
-
